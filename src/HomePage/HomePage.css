@@ -1,0 +1,24 @@
+.todo_list{
+height: 30px;
+  
+    margin: 10px;
+    width: auto;
+    
+}
+
+ .button_edit{
+
+background-color: brown;
+margin: 5px;
+}
+
+.button_delete{
+
+    background-color: brown;
+    margin: 10px;
+}
+
+.add{
+
+    margin-top: 50px;
+}
